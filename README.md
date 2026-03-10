@@ -19,7 +19,7 @@ Concepts demonstrated:
 - inter-VLAN routing validation
 
 Repository  
-https://github.com/<yourusername>/CCNA-Project-01-VLAN-Segmentation
+https://github.com/japalbornoz/VLAN-Segmentation-Router-on-a-Stick
 
 ---
 
@@ -32,7 +32,7 @@ Concepts demonstrated:
 - VLAN-based campus design
 
 Repository  
-https://github.com/<yourusername>/CCNA-Project-02-Campus-Redundancy
+https://github.com/japalbornoz/Multilayer-Campus-Redundancy-Design
 
 ---
 
@@ -45,8 +45,8 @@ Concepts demonstrated:
 - default route origination
 - routing validation
 
-Repository  
-https://github.com/<yourusername>/CCNA-Project-03-OSPF-Routing
+Repository                   
+https://github.com/japalbornoz/OSPF-Multi-Segment-Routing-Design
 
 ---
 
@@ -60,7 +60,7 @@ Concepts demonstrated:
 - branch network service validation
 
 Repository  
-https://github.com/<yourusername>/CCNA-Project-04-Branch-Services
+https://github.com/japalbornoz/Branch-Edge-Services
 
 ---
 
@@ -74,7 +74,7 @@ Concepts demonstrated:
 - asymmetric routing troubleshooting
 
 Repository  
-https://github.com/<yourusername>/CCNA-Project-05-WAN-Redundancy
+https://github.com/japalbornoz/Branch-WAN-Redundancy
 
 ---
 
