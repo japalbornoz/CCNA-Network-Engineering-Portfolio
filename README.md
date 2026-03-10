@@ -68,9 +68,10 @@ https://github.com/japalbornoz/Branch-Edge-Services
 **Focus:** WAN failover and routing validation
 
 Concepts demonstrated:
-- dual ISP design
-- floating static routes
-- WAN failover testing
+- dual ISP WAN design
+- floating static route failover
+- WAN outage simulation
+- traceroute path validation
 - asymmetric routing troubleshooting
 
 Repository  
