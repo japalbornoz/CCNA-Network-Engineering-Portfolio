@@ -95,6 +95,20 @@ https://github.com/japalbornoz/VLAN-Segmentation-Router-on-a-Stick
 
 ---
 
+## Project 00 - Windows-Server-Labs
+
+Concepts demonstrated:
+- Domain Setup
+- Active Directory Users and Computers
+- Group Policy Testing
+- DNS & DHCP Configuration (in-progress)
+- AD Sites & Replication (in-progress)
+
+**Repository**
+https://github.com/japalbornoz/Windows-Server-Labs/tree/main
+
+---
+
 # Skills Demonstrated
 
 ## Networking
