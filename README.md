@@ -95,7 +95,8 @@ https://github.com/japalbornoz/VLAN-Segmentation-Router-on-a-Stick
 
 ---
 
-## Project 00 - Windows-Server-Labs
+## Project 00 – Windows-Server-Labs
+**Focus:** Hands-on Active Directory Domain Services
 
 Concepts demonstrated:
 - Domain Setup
